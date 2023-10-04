@@ -11,6 +11,8 @@ int addNumbers(int a, int b) {
   int num2 = 20;
   
   int result = addNumbers(num1, num2);
+  print(num1);
+  print(num2);
   print('加算結果: $result');
 }
   
