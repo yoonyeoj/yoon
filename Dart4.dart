@@ -9,6 +9,8 @@ int addNumbers(int a, int b) {
   int num1 = 10;
   
   int num2 = 20;
+  print(num1);
+  print(num2);
   
   int result = addNumbers(num1, num2);
   print('加算結果: $result');

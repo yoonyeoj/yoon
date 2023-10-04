@@ -2,6 +2,7 @@
 //与えられた数が偶数か奇数かを判定するDartのプログラムを作成してください。
 void main(){
   var value = 3;
+  print(value);
 
   if (value % 2 == 0) {
     print('偶数です');
@@ -11,6 +12,7 @@ void main(){
   // 奇数です
 
   value = 4;
+  print(value);
 
   if (value % 2 == 0) {
     print('偶数です');
